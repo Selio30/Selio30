@@ -29,7 +29,7 @@ I'm an avid self-learner and have a variety of interests:
   </a>
 </p>
 
-|  |
+| [![appinha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Selio30&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/Selio30?tab=repositories) | [![appinha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Selio30&layout=compact&hide_border=true&theme=jolly)](https://github.com/Selio30?tab=repositories) |
 |:-:|:-:|
 
 ---
