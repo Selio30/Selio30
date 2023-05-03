@@ -24,8 +24,8 @@ I'm an avid self-learner and have a variety of interests:
     <img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/selio30/" />
   </a>
   <span> * </span>
-  <a href="https://progile.intra.42.ft/sbarbero">
-    <img alt="Progile at Málaga 42" src="https://img.shields.io/badge/-sbarbero_@_42-ff69b4?style=flat&logoColor=white&link=https://profile.intra.42.fr/sbarbero" />
+  <a href="https://profile.intra.42.fr/users/sbarbero">
+    <img alt="Progile at Málaga 42" src="https://img.shields.io/badge/-sbarbero_@_42-ff69b4?style=flat&logoColor=white&link=https://profile.intra.42.fr/users/sbarbero" />
   </a>
 </p>
 
