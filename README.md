@@ -40,6 +40,3 @@ Some of my personal or professional projects are:
 * 42 Málaga
   - [42 Piscine C](https://github.com/Selio30/42-piscine)
   - [42 Cursus](https://github.com/Selio30/42-cursus)
-  
-* IES Castelar
-  - [TrabajoFinCurso](https://github.com/Selio30/TrabajoFinCurso)
