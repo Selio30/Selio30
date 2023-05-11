@@ -21,15 +21,15 @@ I'm an avid self-learner and have a variety of interests:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/selio30/">
-    <img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/selio30/" />
+    <img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072B1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/selio30/" />
   </a>
   <span> * </span>
   <a href="https://profile.intra.42.fr/users/sbarbero">
-    <img alt="Progile at Málaga 42" src="https://img.shields.io/badge/-sbarbero_@_42-ff69b4?style=flat&logoColor=white&link=https://profile.intra.42.fr/users/sbarbero" />
+    <img alt="Profile at Málaga 42" src="https://img.shields.io/badge/-Intra_Profile-56D7DD?style=flat&logo=42&logoColor=white&link=https://profile.intra.42.fr/users/sbarbero" />
   </a>
 </p>
 
-| [![appinha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Selio30&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/Selio30?tab=repositories) | [![appinha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Selio30&layout=compact&hide_border=true&theme=jolly)](https://github.com/Selio30?tab=repositories) |
+| [![Selio30's GitHub stats](https://github-readme-stats.vercel.app/api?username=Selio30&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/Selio30?tab=repositories) | [![Selio30's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Selio30&layout=compact&hide_border=true&theme=jolly)](https://github.com/Selio30?tab=repositories) |
 |:-:|:-:|
 
 ---
