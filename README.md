@@ -25,7 +25,11 @@ I'm an avid self-learner and have a variety of interests:
   </a>
   <span> * </span>
   <a href="https://profile.intra.42.fr/users/sbarbero">
-    <img alt="Profile at Málaga 42" src="https://img.shields.io/badge/-Intra_Profile-56D7DD?style=flat&logo=42&logoColor=white&link=https://profile.intra.42.fr/users/sbarbero" />
+    <img alt="Profile at Málaga 42" src="https://img.shields.io/badge/-Intra_Profile-32D352?style=flat&logo=42&logoColor=white&link=https://profile.intra.42.fr/users/sbarbero" />
+  </a>
+  <span> * </span>
+  <a href="https://twitter.com/Selio30">
+    <img alt="Twitter Profile" src="https://img.shields.io/badge/-Twitter_Profile-56D7DD?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/Selio30" />
   </a>
 </p>
 
