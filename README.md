@@ -10,7 +10,7 @@
 
 I'm a **Multiplatform Application Developer**, ex-student at [42 Málaga](https://www.42malaga.com/) and currently **HelpDesk & Security Manager** at **ecaptureDtech** in Badajoz.
 
-Professionally, I specialize in managing IT infrastructure and ensuring technical security, working with enterprise solutions like **Synology NAS** and **FortiGate Firewalls**. In my personal time, I'm an avid self-learner and homelab enthusiast, managing environments with Proxmox, Docker, and Nginx Proxy Manager, while optimizing network topologies and deploying custom internal tools.
+Professionally, I specialize in managing IT infrastructure and ensuring technical security, working with enterprise solutions like **Synology NAS** and **FortiGate Firewalls**. In my personal time, I'm an avid self-learner and homelab enthusiast, managing environments with Proxmox, Ubuntu, Docker, and Nginx Proxy Manager. I enjoy optimizing network topologies (including Pi-hole for network-level tracking protection), managing Active Directory, and deploying custom internal tools across local and Oracle Cloud infrastructure.
 
 ### 🛠️ Technical Stack & Tools
 
@@ -25,8 +25,12 @@ Professionally, I specialize in managing IT infrastructure and ensuring technica
 #### Infrastructure, Security & Databases
 ![Fortinet](https://img.shields.io/badge/Fortinet-%23C8102E.svg?style=for-the-badge&logo=fortinet&logoColor=white)
 ![Synology](https://img.shields.io/badge/Synology-%23B1C6D0.svg?style=for-the-badge&logo=synology&logoColor=black)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D7?style=for-the-badge&logo=microsoft&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Pi-hole](https://img.shields.io/badge/Pi--hole-F53D3D?style=for-the-badge&logo=pi-hole&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -34,8 +38,8 @@ Professionally, I specialize in managing IT infrastructure and ensuring technica
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Selio30&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&theme=tokyonight" alt="Selio30's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selio30&layout=compact&hide_border=true&theme=tokyonight" alt="Selio30's most used languages" width="48%" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Selio30's GitHub stats" width="48%" />
+  <img src="./profile-summary-card-output/tokyonight/1-repo-languages.svg" alt="Selio30's most used languages" width="48%" />
 </p>
 
 ### 🚀 Featured Repositories
