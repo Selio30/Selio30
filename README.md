@@ -4,7 +4,11 @@
   <img alt="Selio30's stars" src="https://img.shields.io/github/stars/Selio30?color=green&style=flat-square" />
 </p>
 
-# Hi there 👋 I'm Selio30.
+<p align="center">
+  <a href="https://github.com/Selio30">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=239120&center=true&vCenter=true&width=600&lines=Hi+there+👋+I'm+Selio30;Multiplatform+Developer;HelpDesk+%26+Security+Manager;Homelab+%26+Automation+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
 
 ### Thanks for visiting! 😄
 
@@ -43,6 +47,12 @@ Professionally, I specialize in managing IT infrastructure and ensuring technica
 <p align="center">
   <img src="https://raw.githubusercontent.com/Selio30/Selio30/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Selio30's Basic Stats" width="48%" />
   <img src="https://raw.githubusercontent.com/Selio30/Selio30/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Selio30's repos per language" width="48%" />
+</p>
+
+### 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Selio30/Selio30/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 </p>
 
 ### 🚀 Featured Repositories
