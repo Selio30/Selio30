@@ -38,8 +38,11 @@ Professionally, I specialize in managing IT infrastructure and ensuring technica
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Selio30's GitHub stats" width="48%" />
-  <img src="./profile-summary-card-output/tokyonight/1-repo-languages.svg" alt="Selio30's most used languages" width="48%" />
+  <img src="https://raw.githubusercontent.com/Selio30/Selio30/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Selio30's GitHub stats" width="100%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Selio30/Selio30/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Selio30's Basic Stats" width="48%" />
+  <img src="https://raw.githubusercontent.com/Selio30/Selio30/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Selio30's repos per language" width="48%" />
 </p>
 
 ### 🚀 Featured Repositories
